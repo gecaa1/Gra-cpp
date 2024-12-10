@@ -1,0 +1,3 @@
+/Users/martynageca/Desktop/C++/Gra/cmake-build-debug/CMakeFiles/Gra.dir
+/Users/martynageca/Desktop/C++/Gra/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/martynageca/Desktop/C++/Gra/cmake-build-debug/CMakeFiles/rebuild_cache.dir
